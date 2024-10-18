@@ -1,4 +1,4 @@
-package ie.atu.testpackage;
+package ie.atu.classesandobjects;
 
 public class HelloWorld {
     public static void main(String[] args) {
